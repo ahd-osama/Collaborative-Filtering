@@ -1,0 +1,12 @@
+{
+    "User-Based": {
+        "RMSE": 1.5704,
+        "Precision": 0.375,
+        "Recall": 0.06
+    },
+    "Item-Based": {
+        "RMSE": 1.6593,
+        "Precision": 0.4125,
+        "Recall": 0.066
+    }
+}
