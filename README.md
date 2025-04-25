@@ -11,4 +11,4 @@ Collaborative filtering works on the principle that if users agree on one thing,
    - This method recommends items based on their similarity to other items that the user has liked. If a user likes a certain item, the system looks for other items that are similar to it and recommends those items.
 
 ### To install the dependencies:
-pip install -r requirements.txt\
+pip install -r requirements.txt
